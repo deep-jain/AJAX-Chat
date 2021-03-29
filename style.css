@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(13, 81, 121);
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.inputInfo {
+    text-align: center;
+    display: inline block;
+}
+
+.chatbox {
+    text-align: center;
+    display: inline block;
+}
